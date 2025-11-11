@@ -6,13 +6,11 @@ This is the first project within The Odin Project Foundations Course and is desi
 
 The objective of this project is to create a recipes website as per The Odin Project's specifications.
 
----
-
 ## Self Reflection
-***Before starting the project.***
+***Before starting the project.*** </br>
 I am excited to get started with this project, I am a hands on learner, a tinkerer at heart and this project will help me get started in applying my learning. I feel like I have grasped the theory well, so now it is time to put it into practice. I don't have any worries or concerns at this stage, I am just excited to get started!
 
 *Start date: 11 November 2025*
 
-***After finishing the project***
+***After finishing the project***</br>
 Project in progress..
